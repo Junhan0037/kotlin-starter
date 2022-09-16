@@ -38,4 +38,6 @@ out/
 
 ### Module ###
 basic/build/
+basic/out/
 handgame/build/
+handgame/out/
