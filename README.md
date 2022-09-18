@@ -16,3 +16,19 @@
 - 멀티 플랫폼 언어로써 서버, 모바일앱, 프론트 등 모든 부야에서 사용이 가능
 - Google Home 팀에서는 코틀린 도입 후 비정상 종료의 #1 원인인 NullPointException 33% 절감
 
+## 목차
+
+1. 코틀린 문법 학습하기
+    - 코틀린 기초
+       - [변수](./basic/src/main/kotlin/com/basic/Variable.kt)
+       - [함수](./basic/src/main/kotlin/com/basic/Function.kt)
+       - [흐름제어](./basic/src/main/kotlin/com/basic/If.kt)
+       - [Null 안전성](./basic/src/main/kotlin/com/basic/NullSafety.kt)
+       - [예외처리](./basic/src/main/kotlin/com/basic/Exception.kt)
+       - [클래스와 프로퍼티](./basic/src/main/kotlin/com/basic/ClassProperty.kt)
+       - [상속](./basic/src/main/kotlin/com/basic/Inheritance.kt)
+       - [인터페이스](./basic/src/main/kotlin/com/basic/Interface.kt)
+       - [열거형](./basic/src/main/kotlin/com/basic/Enum.kt)
+    - 코틀린 고급
+      - 컬렉션
+      - 
